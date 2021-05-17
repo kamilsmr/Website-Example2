@@ -108,14 +108,14 @@ ul li a:hover{
     color: #fff;
     position: relative;
 }
-.conten .par {
+.content .par{
     padding-left: 20px;
     padding-bottom: 25px;
     font-family: Arial;
     letter-spacing: 1.2px;
     line-height: 30px;
 }
-.content h1 {
+.content h1{
     font-family: 'Times New Roman';
     font-size: 50px;
     padding-left: 20px;
@@ -125,7 +125,7 @@ ul li a:hover{
 
 
 }
-.content .cn {
+.content .cn{
     width:160px;
     height: 40px;
     background: #ff7200;
